@@ -56,7 +56,7 @@ main {
 @media (max-width:800px){
     main {
         position: relative;
-        padding-top: 50px;
+        padding-top: 100px;
         flex-direction: column;
     }
     #img-apresentacao {

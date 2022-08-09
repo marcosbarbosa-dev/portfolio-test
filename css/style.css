@@ -54,4 +54,10 @@ header li:hover {
     header {
         flex-direction: column;
     }
+    header li {
+        padding: 3px 2px;
+    }
+    header li a {
+        font-size: 13px;
+    }
 }
