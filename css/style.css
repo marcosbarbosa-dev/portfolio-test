@@ -22,6 +22,8 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: #181E2A;
+    border-bottom: 1px solid #56e6ff56;
 }
 #logo {
     padding-top: 3px;
